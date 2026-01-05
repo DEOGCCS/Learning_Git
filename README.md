@@ -6,3 +6,4 @@ Learning courses about git and github
 Date | School | Course name | Workload
 ---|---|---|---
 2025.11.17 | Microsoft - learn | What is Github | 1h35min
+2026.01.05 | Jornada de dados | Introdução ao git hub | 1h50min
